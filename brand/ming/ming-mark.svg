@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 34" width="70" height="34" role="img" aria-label="MING mark: eight squares, four pillars over stems and branches">
+  <title>MING — eight-square mark (brand-neutral)</title>
+  <desc>4 x 2 grid. Columns are the four pillars read right to left: year, month, day, hour. Top row heavenly stems, bottom row earthly branches. All squares ink except the day-pillar stem, which is cinnabar and means "you are here". Never redraw, recolour, round, outline, or animate this mark. A personal mark replaces every square with that chart's phase colour and uses no ink.</desc>
+  <g fill="#171A18">
+    <rect x="0"  y="0"  width="16" height="16"/>
+    <rect x="36" y="0"  width="16" height="16"/>
+    <rect x="54" y="0"  width="16" height="16"/>
+    <rect x="0"  y="18" width="16" height="16"/>
+    <rect x="18" y="18" width="16" height="16"/>
+    <rect x="36" y="18" width="16" height="16"/>
+    <rect x="54" y="18" width="16" height="16"/>
+  </g>
+  <rect x="18" y="0" width="16" height="16" fill="#BE4127"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 34" width="70" height="34" role="img" aria-label="MING mark, all ink">
+  <title>MING — eight-square mark (all ink, for in-product use beside live chart data)</title>
+  <desc>Use this variant on any surface that renders a real chart, so the logo's cinnabar square never competes with a Fire branch.</desc>
+  <g fill="#171A18">
+    <rect x="0"  y="0"  width="16" height="16"/><rect x="18" y="0"  width="16" height="16"/>
+    <rect x="36" y="0"  width="16" height="16"/><rect x="54" y="0"  width="16" height="16"/>
+    <rect x="0"  y="18" width="16" height="16"/><rect x="18" y="18" width="16" height="16"/>
+    <rect x="36" y="18" width="16" height="16"/><rect x="54" y="18" width="16" height="16"/>
+  </g>
+</svg>
